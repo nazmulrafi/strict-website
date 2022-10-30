@@ -1,0 +1,205 @@
+@media (min-width: 0px) and (max-width: 575px){
+    /* header start */
+    .navbar-nav .nav-item .nav-link{
+        color: #fff;
+    }
+    .navbar-toggler {
+        line-height: 1;
+        background: #0da3be;
+        color: #fff;
+        border: none;
+        transition: .5s all;
+    }
+    .navbar-toggler:hover{
+        background: transparent;
+        color: #0da3be;
+    }
+    .navbar-nav{
+        background: #242626;
+    }
+    .banner{
+        padding: 70px 0px;
+    }
+    .banner-content h1{
+        font-size: 50px;
+        font-weight: bold;
+        color: var(--white-color);
+        padding-bottom: 20px;
+        position: relative;
+    }
+    .banner-content h1::after{
+        top: 60px;
+        right: 140px;
+    }
+    .banner-content p{
+        font-size: 14px;
+        font-weight: 400;
+        padding: 20px 0px 30px 0px;
+    }
+    .banner-content a{
+        padding: 10px 25px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    /* header end */
+    /* simple start */
+     .simple-design{
+        padding: 30px 0px 40px 0px;
+        background: #f6f9f9;
+    }
+    .simple-design-part-content h3{
+        font-size: 28px;
+        padding-bottom: 20px;
+    }
+  .simple-design-part-content p{
+        width: 450px;
+        line-height: 20px;
+        font-size: 14px;
+        text-align: justify;
+    }
+    /* simple end */
+     .feature-content a i{
+        padding: 15px 25px 15px 25px;
+        transition: .5s all;
+        font-size: 24px;
+    }
+     .feature-content h3{
+        font-size: 24px;
+    }
+ .feature-content p{
+    font-size: 14px;
+    line-height: 20px;
+ }
+    /* simple end */
+    .portfolio-upper-part h3 {
+	font-size: 23px;
+	padding-bottom: 20px;
+}
+.portfolio-upper-part p {
+	padding-bottom: 19px;
+}
+    .portfolio {
+	padding: 60px 0px 60px 0px;
+}
+    .foot-first span {
+        padding-bottom: 20px;
+}
+.foot-last{
+    margin-left: -40px;
+}
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    /* header end */
+     .navbar-nav .nav-item .nav-link{
+        color: #fff;
+    }
+    .navbar-toggler {
+        line-height: 1;
+        background: #0da3be;
+        color: #fff;
+        border: none;
+        transition: .5s all;
+    }
+    .navbar-toggler:hover{
+        background: transparent;
+        color: #0da3be;
+    }
+    .navbar-nav{
+        background: #242626;
+    }
+    .banner{
+        padding: 70px 0px;
+    }
+    .banner-content h1{
+        font-size: 50px;
+        font-weight: bold;
+        color: var(--white-color);
+        padding-bottom: 20px;
+        position: relative;
+    }
+    .banner-content h1::after{
+        top: 60px;
+        right: 140px;
+    }
+    .banner-content p{
+        font-size: 14px;
+        font-weight: 400;
+        padding: 20px 0px 30px 0px;
+    }
+    .banner-content a{
+        padding: 10px 25px;
+        font-size: 13px;
+        font-weight: 400;
+    }
+    /* header end */
+    /* simple start */
+     .simple-design{
+        padding: 30px 0px 40px 0px;
+        background: #f6f9f9;
+    }
+    .simple-design-part-content h3{
+        font-size: 28px;
+        padding-bottom: 20px;
+    }
+  .simple-design-part-content p{
+        width: 450px;
+        line-height: 20px;
+        font-size: 14px;
+        text-align: justify;
+    }
+    /* simple end */
+     .feature-content a i{
+        padding: 15px 25px 15px 25px;
+        transition: .5s all;
+        font-size: 24px;
+    }
+     .feature-content h3{
+        font-size: 18px;
+        font-weight: bold;
+    }
+ .feature-content p{
+    font-size: 14px;
+    line-height: 20px;
+ }
+  .portfolio-upper-part h3{
+    font-size: 28px;
+ }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    /* header start */
+    .navbar-nav .nav-item .nav-link{
+        color: #fff;
+    }
+    .navbar-toggler {
+        line-height: 1;
+        background: #0da3be;
+        color: #fff;
+        border: none;
+        transition: .5s all;
+    }
+    .navbar-toggler:hover{
+        background: transparent;
+        color: #0da3be;
+    }
+    .navbar-nav{
+        background: #242626;
+    }
+    .banner{
+        padding: 120px 0px;
+    }
+    .banner-content h1{
+        font-size: 80px;
+    }
+    .banner-content h1::after{
+        top: 110px;
+        right: 210px;
+    }
+    .simple-design-part-content p{
+        width: 700px;
+        line-height: 24px;
+        font-size: 14px;
+    }
+    /* header end */
+}
